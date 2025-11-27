@@ -22,7 +22,7 @@ A beautiful and simple Flutter application for reading and tracking morning Azka
 
 ### Features Display
 - **Azkar Text**: Clear Arabic text of the supplication
-- **Counter**: Tap to increment your repetition count (0/100)
+- **Counter**: Tap to increment your repetition count
 - **Progress Tracking**: Visual progress indicator
 - **Daily Stats**: Today's progress and history overview
 
