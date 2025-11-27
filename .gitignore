@@ -43,3 +43,50 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+# ------------------------------
+# Flutter build files (auto-generated)
+# ------------------------------
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# ------------------------------
+# Android specific
+# ------------------------------
+android/local.properties      # Personal SDK path
+android/.gradle/             # Gradle cache
+**/gradle-wrapper.jar
+android/key.properties        # Signing keys
+android/app/upload-keystore.jks  # Never upload keystore
+
+# ------------------------------
+# iOS / macOS
+# ------------------------------
+ios/Pods/
+ios/Flutter/.last_build_id
+macos/Pods/
+macos/Flutter/ephemeral/
+
+# ------------------------------
+# Windows/Linux
+# ------------------------------
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# ------------------------------
+# IDE settings (don't upload)
+# ------------------------------
+.vscode/
+.idea/
+*.iml
+
+# ------------------------------
+# Logs & system files
+# ------------------------------
+*.log
+.DS_Store
+Thumbs.db
