@@ -1,16 +1,38 @@
-# azkar_app_rehi
+# آذکار الصباح (Morning Azkar)
 
-A new Flutter project.
+A beautiful and simple Flutter application for reading and tracking morning Azkar (Islamic supplications).
 
-## Getting Started
+## 📱 App Features
 
-This project is a starting point for a Flutter application.
+- **Daily Morning Azkar**: Access authentic morning supplications
+- **Counter System**: Track your Azkar repetitions with easy-to-use counters
+- **Progress Tracking**: Monitor your daily progress
+- **History View**: Review your previous Azkar sessions
+- **Clean UI**: Simple and intuitive user interface
+- **Offline Access**: Use the app without internet connection
 
-A few resources to get you started if this is your first Flutter project:
+## 🖼️ Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Main Screen
+![Main Screen](assets/screenshots/image.png)
+![Main Screen](assets/screenshots/image2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*The main screen displays the morning Azkar with counter functionality*
+
+### Features Display
+- **Azkar Text**: Clear Arabic text of the supplication
+- **Counter**: Tap to increment your repetition count (0/100)
+- **Progress Tracking**: Visual progress indicator
+- **Daily Stats**: Today's progress and history overview
+
+## 🚀 Installation
+
+### Prerequisites
+- Flutter SDK (version 3.0 or higher)
+- Dart SDK (version 2.17 or higher)
+- Android Studio/VSCode with Flutter extension
+
+##Clone the repository:
+```bash
+git clone https://github.com/abdumic/flutter-azkar-app.git
+```
