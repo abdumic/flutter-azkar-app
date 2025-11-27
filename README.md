@@ -14,8 +14,9 @@ A beautiful and simple Flutter application for reading and tracking morning Azka
 ## 🖼️ Screenshots
 
 ### Main Screen
-![Main Screen](assets/screenshots/image.png)
-![Main Screen](assets/screenshots/image2.png)
+| Image 1 | Image 2 |
+|---------|---------|
+| ![Main Screen](assets/screenshots/image.png) | ![Main Screen](assets/screenshots/image2.png) |
 
 *The main screen displays the morning Azkar with counter functionality*
 
